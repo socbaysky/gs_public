@@ -63,6 +63,10 @@ killcharacter
 godmode
    Prevents you from taking damage
    Usage: godmode [playerId]
+quest
+   Add quest
+   Usage: quest add [quest id] -> add quest by id
+          quest finish [quest id] -> finish quest by id
 help
    Sends the help message or shows information about a specified command
    Usage: help [command]
