@@ -1,0 +1,68 @@
+Available commands:
+setfetterlevel
+   Sets your fetter level for your current active character
+   Usage: setfetterlevel <level>
+   Aliases: setfetterlvl setfriendship
+setworldlevel
+   Sets your world level (Relog to see proper effects)
+   Usage: setworldlevel <level>
+   Aliases: setworldlvl
+setstats
+   Set fight property for your current active character
+   Usage: setstats|stats <stat> <value>
+   Aliases: stats
+giveall
+   Gives all items
+   Usage: giveall [player] [amount]
+   Aliases: givea
+settalent
+   Set talent level for your current active character
+   Usage: talent <talentID> <value>
+weather
+   Changes the weather.
+   Usage: weather <weatherId> [climateId]
+   Aliases: w
+give
+   Gives an item to you or the specified player
+   Usage: give [player] <itemId|itemName> [amount] [level]
+   Aliases: g item giveitem
+changescene
+   Changes your scene
+   Usage: changescene <scene id>
+   Aliases: scene
+list
+   List online players
+   Usage: No usage specified
+tpall
+   Teleports all players in your world to your position
+   Usage: tpall
+position
+   Get coordinates.
+   Usage: position
+   Aliases: pos
+resetconst
+   Resets the constellation level on your current active character, will need to relog after using the command to see any changes.
+   Usage: resetconst [all]
+   Aliases: resetconstellation
+givechar
+   Gives the player a specified character
+   Usage: givechar <playerId> <avatarId> [level]
+   Aliases: givec
+teleport
+   Change the player's position.
+   Usage: teleport <x> <y> <z>
+   Aliases: tp
+heal
+   Heal all characters in your current team.
+   Usage: heal|h
+   Aliases: h
+killcharacter
+   Kills the players current character
+   Usage: killcharacter [playerId]
+   Aliases: suicide kill
+godmode
+   Prevents you from taking damage
+   Usage: godmode [playerId]
+help
+   Sends the help message or shows information about a specified command
+   Usage: help [command]
