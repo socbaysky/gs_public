@@ -1,4 +1,13 @@
 Available commands:
+
+giveart:
+   Get Artifact to your bag
+   Usage: giveart <artifactId> <mainPropId> [<subPropId>[,<times>]]... [level]
+   Example: giveart 80534 50960 989001,5 999001,5 999002 987001,5 21
+   Tips:
+      Artifact ID link: https://github.com/socbaysky/gs_public/blob/main/en_artifact_handbook.txt
+      Artifact mainPropId: https://github.com/socbaysky/gs_public/blob/main/en_artifact_main_attribution.txt
+      Artifact subPropId: https://github.com/socbaysky/gs_public/blob/main/en_artifact_sub_attribution.txt
 setfetterlevel
    Sets your fetter level for your current active character
    Usage: setfetterlevel <level>
