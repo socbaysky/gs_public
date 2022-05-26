@@ -12,7 +12,7 @@
 
 #### Hướng dẫn login cho IOS: [https://www.youtube.com/watch?v=sPLiV5KOCic](https://www.youtube.com/watch?v=Fh9Hghnf3VA)
 
-## Thông tin server cho PC/Android:
+## Thông tin server cho PC:
 ### Server 1
 - Host: genshin-s1.w4vn.net
 - Port: 443 (https)
