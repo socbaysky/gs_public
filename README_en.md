@@ -25,4 +25,4 @@
 
 #### Guide login for android: video updating soon...
 
-## Lấy token: https://genshin.w4vn.net
+## Get token for login here: https://genshin.w4vn.net . When login ingame, must use token for username and password random for secure. You can watch youtube video above for instruction. Sorry for my bad English!
