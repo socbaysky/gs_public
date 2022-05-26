@@ -1,3 +1,5 @@
+# Vietnammese | [English](https://github.com/socbaysky/gs_public/blob/main/README_en.md)
+
 # Private Server for PC/Android/IOS free all. Emulator Server build by W4VN.NET.
 
 ## Thông tin Proxy cho IOS:
