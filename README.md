@@ -19,3 +19,5 @@
 ## Thông tin server cho Android:
 - Host: https://genshin-s1.w4vn.net
 - Hướng dẫn đăng nhập/Guide login: video updating soon...
+
+## Lấy token: https://genshin.w4vn.net
