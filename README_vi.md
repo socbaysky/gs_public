@@ -25,4 +25,4 @@
 
 #### Guide login for android: video updating soon...
 
-## Lấy token để login tại đây: https://genshin.w4vn.net . Khi đăng nhập trong game, Token sử dụng thay cho tên đăng nhập để bảo mật, password nhập bất kỳ.
+## Lấy token để login tại đây: https://genshin.w4vn.net . Khi đăng nhập trong game, Token sử dụng thay cho tên đăng nhập để bảo mật, password nhập bất kỳ. Nếu không biết cách làm, hãy xem video youtube link phía trên nhé.
