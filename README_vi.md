@@ -1,6 +1,6 @@
 # Private Server for PC/Android/IOS free all. Emulator Server build by W4VN.NET.
 
-## Thông tin Proxy/Proxy Information cho IOS:
+## Thông tin Proxy cho IOS:
 ### Server 1
 - Host: proxy-genshin.w4vn.net
 - Port: 10001
