@@ -8,6 +8,8 @@
 - Host: proxy-genshin.w4vn.net
 - Port: 10002
 
+#### Hướng dẫn login cho IOS: [https://www.youtube.com/watch?v=sPLiV5KOCic](https://www.youtube.com/watch?v=Fh9Hghnf3VA)
+
 ## Thông tin server cho PC/Android:
 ### Server 1
 - Host: genshin-s1.w4vn.net
@@ -16,8 +18,11 @@
 - Host: genshin-s2.w4vn.net
 - Port: 443 (https)
 
+#### Hướng dẫn login cho PC: [https://www.youtube.com/watch?v=sPLiV5KOCic](https://www.youtube.com/watch?v=sPLiV5KOCic)
+
 ## Thông tin server cho Android:
 - Host: https://genshin-s1.w4vn.net
-- Hướng dẫn đăng nhập/Guide login: video updating soon...
 
-## Lấy token: https://genshin.w4vn.net
+#### Guide login for android: video updating soon...
+
+## Lấy token để login tại đây: https://genshin.w4vn.net . Khi đăng nhập trong game, Token sử dụng thay cho tên đăng nhập để bảo mật, password nhập bất kỳ.
