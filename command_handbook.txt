@@ -1,5 +1,8 @@
 Available commands:
 
+spawn:
+   Spawn NPC, Monster, Animal or Ornament near you
+   Usage: spawn <entityId> [amount] [level(monster only)]
 giveart:
    Get Artifact to your bag
    Usage: giveart <artifactId> <mainPropId> [<subPropId>[,<times>]]... [level]
