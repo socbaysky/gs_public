@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Server 2 (dev)",
+    "name": "Server 2 (2.7)",
     "hostAddress": "genshin-s2.w4vn.net",
     "hostPort": "443",
     "proxyHost": "proxy-genshin.w4vn.net",
