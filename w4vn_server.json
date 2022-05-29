@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Server 1 (dev-world)",
+    "name": "Server 1 (2.6)",
     "hostAddress": "genshin-s1.w4vn.net",
     "hostPort": "443",
     "proxyHost": "proxy-genshin.w4vn.net",
