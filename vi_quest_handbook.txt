@@ -1233,6 +1233,13 @@
 101704 :  - 
 101705 :  - 
 101801 : Quay Lại Trần Thế - Quay lại Liyue tìm Childe
+101901 : Vị Khách Bất Ngờ - Đến tầng dưới của Vực Đá Sâu
+101902 : Vị Khách Bất Ngờ - Nói chuyện với Yanfei
+101903 : Vị Khách Bất Ngờ - Đến nơi sâu thẳm của Vực Đá Sâu
+101904 : Vị Khách Bất Ngờ - Thảo luận cùng với mọi người
+101905 : Vị Khách Bất Ngờ - Đến chỗ của Yelan
+101906 : Vị Khách Bất Ngờ - 
+101907 : Vị Khách Bất Ngờ - Đến tầng dưới của Vực Đá Sâu
 102001 : Thành Phố Nổi - Đến Thiên Hoành Sơn
 102002 : Thành Phố Nổi - Tìm cách đến Quần Ngọc Các
 102003 : Thành Phố Nổi - Thử điều khiển cơ quan
@@ -1301,6 +1308,90 @@
 102602 :  - 
 102603 :  - 
 102604 :  - 
+102701 :  - 
+102801 : Nham Hạ Mê Cảnh - Vào Bí Cảnh
+102802 : Nham Hạ Mê Cảnh - Nói chuyện với mọi người
+102803 : Nham Hạ Mê Cảnh - Rời khỏi bí cảnh
+102804 : Nham Hạ Mê Cảnh - Nói chuyện với mọi người
+102805 : Nham Hạ Mê Cảnh - Nói chuyện với mọi người
+102806 : Nham Hạ Mê Cảnh - Nói chuyện với mọi người
+102807 : Nham Hạ Mê Cảnh - 
+102808 : Nham Hạ Mê Cảnh - Xác nhận bí cảnh có thông ra bên ngoài không
+102809 : Nham Hạ Mê Cảnh - 
+102901 : Nguy Hiểm Rình Rập - Đợi đến hôm sau
+102902 : Nguy Hiểm Rình Rập - Tiếp tục tìm kiếm
+102903 : Nguy Hiểm Rình Rập - Xác nhận tình hình trong bí cảnh
+102904 : Nguy Hiểm Rình Rập - Đến chỗ vết nứt
+102905 : Nguy Hiểm Rình Rập - Nhảy vào vết nứt
+102906 : Nguy Hiểm Rình Rập - Điều tra cánh cửa thần bí phía trước
+102907 : Nguy Hiểm Rình Rập - 
+102908 : Nguy Hiểm Rình Rập - Vào trong cửa
+102909 : Nguy Hiểm Rình Rập - Rời khỏi nơi hiện tại
+102910 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102911 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102912 : Nguy Hiểm Rình Rập - Đến nơi Yanfei chỉ định
+102913 : Nguy Hiểm Rình Rập - Nghĩ cách liên hệ với Xiao
+102914 : Nguy Hiểm Rình Rập - Nói chuyện với Xiao
+102915 : Nguy Hiểm Rình Rập - Nói chuyện với Yelan
+102916 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102917 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102918 : Nguy Hiểm Rình Rập - Nói chuyện với Yanfei
+102919 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102920 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102921 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102922 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102923 : Nguy Hiểm Rình Rập - 
+102924 : Nguy Hiểm Rình Rập - 
+102925 : Nguy Hiểm Rình Rập - 
+102926 : Nguy Hiểm Rình Rập - 
+102927 : Nguy Hiểm Rình Rập - 
+102928 : Nguy Hiểm Rình Rập - 
+102929 : Nguy Hiểm Rình Rập - 
+102930 : Nguy Hiểm Rình Rập - 
+102931 : Nguy Hiểm Rình Rập - 
+102932 : Nguy Hiểm Rình Rập - 
+102933 : Nguy Hiểm Rình Rập - 
+102934 : Nguy Hiểm Rình Rập - 
+102935 : Nguy Hiểm Rình Rập - Nói chuyện với mọi người
+102936 : Nguy Hiểm Rình Rập - Trở về doanh trại
+103001 : Cùng Đường Mạt Lộ - Nói chuyện với Paimon
+103002 : Cùng Đường Mạt Lộ - Nói chuyện với Kuki Shinobu
+103003 : Cùng Đường Mạt Lộ - Vào bí cảnh mới
+103004 : Cùng Đường Mạt Lộ - 
+103005 : Cùng Đường Mạt Lộ - Vào không gian mới
+103006 : Cùng Đường Mạt Lộ - Nói chuyện với mọi người
+103007 : Cùng Đường Mạt Lộ - Nói chuyện với Yanfei
+103008 : Cùng Đường Mạt Lộ - Đánh bại kẻ địch
+103009 : Cùng Đường Mạt Lộ - Nói chuyện với Yanfei
+103010 : Cùng Đường Mạt Lộ - 
+103011 : Cùng Đường Mạt Lộ - Tìm thêm manh mối xung quanh
+103012 : Cùng Đường Mạt Lộ - Nói chuyện với Yelan
+103013 : Cùng Đường Mạt Lộ - Đánh bại kẻ địch
+103014 : Cùng Đường Mạt Lộ - Nói chuyện với Yelan
+103015 : Cùng Đường Mạt Lộ - 
+103016 : Cùng Đường Mạt Lộ - Vào không gian mới
+103017 : Cùng Đường Mạt Lộ - Nói chuyện với Xiao
+103018 : Cùng Đường Mạt Lộ - Đánh bại kẻ địch
+103019 : Cùng Đường Mạt Lộ - Nói chuyện với Xiao
+103020 : Cùng Đường Mạt Lộ - Vào không gian mới
+103021 : Cùng Đường Mạt Lộ - Nói chuyện với mọi người
+103022 : Cùng Đường Mạt Lộ - Vượt qua vực sâu
+103023 : Cùng Đường Mạt Lộ - Đi theo "người bị tìm"
+103024 : Cùng Đường Mạt Lộ - Bỏ
+103025 : Cùng Đường Mạt Lộ - #Đuổi theo {F#anh ấy}{M#cô ấy}
+103026 : Cùng Đường Mạt Lộ - Nói chuyện với mọi người
+103027 : Cùng Đường Mạt Lộ - Thoát khỏi không gian hiện tại
+103101 : Chuyển Nguy Thành An - Nói chuyện với Yelan
+103102 : Chuyển Nguy Thành An - Quay về hội hợp với đồng đội
+103103 : Chuyển Nguy Thành An - Phát cs
+103104 : Chuyển Nguy Thành An - Nói chuyện với mọi người
+103105 : Chuyển Nguy Thành An - Đến nơi Xiao nói
+103106 : Chuyển Nguy Thành An - Nói chuyện với Xiao
+103107 : Chuyển Nguy Thành An - 
+103108 : Chuyển Nguy Thành An - 
+103109 : Chuyển Nguy Thành An - 
+103201 :  - 
+103301 :  - 
 200001 : Thuật Phá Lôi Bạo - Nhìn ra xa bên ngoài cảng Liyue, ổn định lại cảm xúc
 200002 : Thuật Phá Lôi Bạo - Trò chuyện với Paimon
 200003 : Thuật Phá Lôi Bạo - Hỏi Atsuko cách đến Inazuma
@@ -1736,8 +1827,8 @@
 1011207 : Nanh Sư Tử - 
 1011208 : Nanh Sư Tử - 
 1011209 : Nanh Sư Tử - Đánh bại Hilichurl tấn công
-1011210 : Nanh Sư Tử - 
-1011211 : Nanh Sư Tử - 
+1011210 : Nanh Sư Tử - Nói chuyện với Hilichurl
+1011211 : Nanh Sư Tử - Nói chuyện với Venti
 1011212 : Nanh Sư Tử - 
 1011213 : Nanh Sư Tử - 
 1011300 : Nếu bạn bị nhốt ở nơi không có gió - Đợi đến tối (18h-23h)
@@ -1873,7 +1964,7 @@
 1050301 :  - 
 1100001 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Tiếp cận thiếu nữ trong rừng
 1100002 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Tiếp cận thiếu nữ trong rừng (ẩn)
-1100003 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Trò Truyện Cùng Xiangling
+1100003 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Trò Chuyện Cùng Xiangling
 1100004 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Giúp Xiangling thu thập thịt rừng
 1100005 : Đầu Bếp Nhỏ Trong Mắt Thợ Săn - Đem 3 miếng thịt rừng đưa cho Xiangling
 1100101 : Giao Ước Nấu Ăn - Đi cùng Xiangling đến Thanh Tuyền Trấn
@@ -1881,19 +1972,19 @@
 1100103 : Giao Ước Nấu Ăn - Đi theo Xiangling chuẩn bị rời đi
 1100104 : Giao Ước Nấu Ăn - Nói chuyện với Xiangling ở nơi tỏa ra hương thơm
 1100201 : Nguyên Liệu Quyết Định - Tìm Xiangling đi đến Liyue
-1100202 : Nguyên Liệu Quyết Định - Trò Truyện Cùng Xiangling
+1100202 : Nguyên Liệu Quyết Định - Trò Chuyện Cùng Xiangling
 1100203 : Nguyên Liệu Quyết Định - Men theo con đường đi về phía trước, tìm nguyên liệu thích hợp
 1100204 : Nguyên Liệu Quyết Định - Thu thập 3 Đài Sen
 1100205 : Nguyên Liệu Quyết Định - Đi tiếp về phía trước, tìm nguyên liệu thích hợp
 1100206 : Nguyên Liệu Quyết Định - Thu thập 3 quả Ớt Tuyệt Vân
-1100207 : Nguyên Liệu Quyết Định - Trò Truyện Cùng Xiangling
+1100207 : Nguyên Liệu Quyết Định - Trò Chuyện Cùng Xiangling
 1100301 : Thu Hoạch Bất Ngờ - Đi đến nơi Xiangling nhắc đến
 1100302 : Thu Hoạch Bất Ngờ - Nói chuyện với Xiangling và người run rẩy
 1100303 : Thu Hoạch Bất Ngờ - Nấu "Canh Rau Củ Ngon"
 1100304 : Thu Hoạch Bất Ngờ - Mang món canh đã nấu đưa cho thợ săn
 1100401 : Món Quà Viễn Cổ - Đuổi theo Xiangling xông vào di tích
 1100402 : Món Quà Viễn Cổ - Vào di tích, tìm nguyên liệu
-1100403 : Món Quà Viễn Cổ - Trò Truyện Cùng Xiangling
+1100403 : Món Quà Viễn Cổ - Trò Chuyện Cùng Xiangling
 1100498 : Món Quà Viễn Cổ - (Gặp được Băng Vụ Hoa cực lớn, lái xe)
 1100499 : Món Quà Viễn Cổ - (Trong địa thành, sau khi đánh bại kẻ địch thuộc vùng chiến đầu tiên, lái xe)
 1100501 : Thi Đấu Ẩm Thực - Về Thanh Tuyền Trấn, tham gia cuộc thi nấu ăn
@@ -2074,6 +2165,48 @@
 1101511 : Nơi Con Tim Bình Yên - 
 1101601 :  - 
 1101701 :  - 
+1101801 : Tuyển Chọn Thất Tinh - Dạo quanh Cảng Liyue
+1101802 : Tuyển Chọn Thất Tinh - Đến lầu 2 Tiệm Trà Trên Đá
+1101803 : Tuyển Chọn Thất Tinh - Nói chuyện với chú Tian
+1101804 : Tuyển Chọn Thất Tinh - Đến Nguyệt Hải Đình để đánh giá
+1101805 : Tuyển Chọn Thất Tinh - 
+1101806 : Tuyển Chọn Thất Tinh - Báo cáo kết quả đánh giá với chú Tian
+1101807 : Tuyển Chọn Thất Tinh - Xem bản kế hoạch của ứng cử viên
+1101808 : Tuyển Chọn Thất Tinh - Xem bản kế hoạch của ứng cử viên
+1101809 : Tuyển Chọn Thất Tinh - Xem bản kế hoạch của ứng cử viên
+1101810 : Tuyển Chọn Thất Tinh - Cùng Yelan đánh giá ứng cử viên
+1101901 : Tri Nhân Tri Diện - Đến bến cảng phía bắc tìm Bolai
+1101902 : Tri Nhân Tri Diện - Nói chuyện với Bolai
+1101903 : Tri Nhân Tri Diện - Lắng nghe cuộc nói chuyện của Zhiyi và Linlang
+1101904 : Tri Nhân Tri Diện - Nói chuyện với Yelan
+1101905 : Tri Nhân Tri Diện - Đuổi theo Zhiyi
+1101906 : Tri Nhân Tri Diện - Đến bến cảng phía nam điều tra
+1101907 : Tri Nhân Tri Diện - Nói chuyện với Lão Sun
+1101908 : Tri Nhân Tri Diện - Tiếp tục tìm kiếm manh mối tại bến cảng (0/2)
+1101909 : Tri Nhân Tri Diện - Tiếp tục tìm kiếm manh mối tại bến cảng (1/2)
+1101910 : Tri Nhân Tri Diện - Về Tiệm Trà Trên Đá điều tra bản kế hoạch
+1101911 : Tri Nhân Tri Diện - Xem kỹ bản kế hoạch
+1101912 : Tri Nhân Tri Diện - Nói chuyện với Shanghua
+1101913 : Tri Nhân Tri Diện - Đến Hắc Nham Xưởng điều tra
+1101914 : Tri Nhân Tri Diện - Đến Hắc Nham Xưởng tìm manh mối
+1101915 : Tri Nhân Tri Diện - Hỏi Vai Sắt về người mới của Hắc Nham Xưởng
+1101916 : Tri Nhân Tri Diện - Điều tra nhật ký thi công
+1101918 : Tri Nhân Tri Diện - Đi theo dấu chân
+1101919 : Tri Nhân Tri Diện - Đi theo dấu chân
+1101920 : Tri Nhân Tri Diện - Đi theo dấu chân
+1101921 : Tri Nhân Tri Diện - Đi theo dấu chân
+1101922 : Tri Nhân Tri Diện - Đi theo dấu chân
+1101923 : Tri Nhân Tri Diện - 
+1101924 : Tri Nhân Tri Diện - Nói chuyện với Yelan
+1101925 : Tri Nhân Tri Diện - 
+1101926 : Tri Nhân Tri Diện - 
+1101927 : Tri Nhân Tri Diện - 
+1101928 : Tri Nhân Tri Diện - 
+1101929 : Tri Nhân Tri Diện - Điều tra căn nhà bỏ hoang
+1101930 : Tri Nhân Tri Diện - 
+1101931 : Tri Nhân Tri Diện - 
+1101932 : Tri Nhân Tri Diện - 
+1101933 : Tri Nhân Tri Diện - 
 1102001 : Hình Bóng Xưa - Đến Châu Điền Phường
 1102002 : Hình Bóng Xưa - Nói chuyện với Zhongli
 1102003 : Hình Bóng Xưa - Đến đuôi thuyền tìm hiểu vấn đề của Wanyan
@@ -2113,6 +2246,32 @@
 1102402 : Vạn Tượng Chi Lục - Ném di vật xuống biển
 1102501 :  - 
 1102502 :  - 
+1102601 : Mọi Thứ Đã Định - Đợi đến 9:00-11:00 hôm sau
+1102602 : Mọi Thứ Đã Định - Đến Nguyệt Hải Đình công bố kết quả đánh giá
+1102603 : Mọi Thứ Đã Định - 
+1102604 : Mọi Thứ Đã Định - Đến Dốc Phi Vân theo dõi Zhiyi
+1102605 : Mọi Thứ Đã Định - Vào Tân Nguyệt Hiên điều tra
+1102606 : Mọi Thứ Đã Định - Đến Hy Cổ Cư điều tra
+1102607 : Mọi Thứ Đã Định - Đến Tiệm Trà Trên Đá sau 8 giờ tối
+1102608 : Mọi Thứ Đã Định - Đến Tiệm Trà Trên Đá gặp Yelan
+1102609 : Mọi Thứ Đã Định - Đến Cửa Biển Thanh Hư
+1102610 : Mọi Thứ Đã Định - Đến nơi Yelan chỉ định
+1102611 : Mọi Thứ Đã Định - Vào di tích dưới lòng đất
+1102612 : Mọi Thứ Đã Định - Điều tra manh mối phía trước
+1102613 : Mọi Thứ Đã Định - Đuổi theo đại sứ khả nghi
+1102614 : Mọi Thứ Đã Định - Nghe ngóng cuộc nói chuyện của Zhiyi và Yusupov
+1102615 : Mọi Thứ Đã Định - Đi theo Yelan
+1102616 : Mọi Thứ Đã Định - Rời khỏi di tích
+1102617 : Mọi Thứ Đã Định - Đợi đến 8 giờ sáng hôm sau
+1102618 : Mọi Thứ Đã Định - Đến Tiệm Trà Trên Đá
+1102619 : Mọi Thứ Đã Định - Đuổi theo đại sứ khả nghi
+1102620 : Mọi Thứ Đã Định - Điều tra lối vào dưới nước
+1102621 : Mọi Thứ Đã Định - 
+1102622 : Mọi Thứ Đã Định - Di chuyển bức tượng để giải câu đố
+1102623 : Mọi Thứ Đã Định - Tiếp tục tìm kiếm sâu hơn
+1102624 : Mọi Thứ Đã Định - 
+1102625 : Mọi Thứ Đã Định - 
+1102626 : Mọi Thứ Đã Định - 
 1103001 : Tiên Thú Biển Mây - Nói chuyện với các Thư Ký Quần Ngọc Các
 1103002 : Tiên Thú Biển Mây - Đến gần Âu Tàng Sơn tìm Ganyu
 1103003 : Tiên Thú Biển Mây - Tìm Ganyu và nói chuyện với cô ấy
@@ -3588,6 +3747,61 @@
 1913801 : Thời Gian Nghỉ Ngơi! - Trò chuyện với Ningguang
 1913802 : Thời Gian Nghỉ Ngơi! - Đợi đến sáng hôm sau (7:00-8:00)
 1913803 : Thời Gian Nghỉ Ngơi! - Đánh thức Ningguang
+1914101 : Cách Thức Xử Lý - Đến phủ hiệp hội nói chuyện với Uesugi
+1914102 : Cách Thức Xử Lý - Nói chuyện với Kuki Shinobu
+1914201 : Chuyến Đi Đến Đền Thần - Đến Đền Narukami xin lỗi Yae Miko
+1914301 : Luật Bang - Tìm kiếm tung tích của nhóm Mamoru
+1914302 : Luật Bang - Đến "Phòng Tắm Hơi Asia" để điều tra
+1914303 : Luật Bang - 
+1914304 : Luật Bang - Tìm kiếm tung tích của nhóm Genta
+1914305 : Luật Bang - Đến dưới cầu để điều tra
+1914306 : Luật Bang - 
+1914307 : Luật Bang - Đến ngoài thành Inazuma
+1914308 : Luật Bang - 
+1914309 : Luật Bang - Đến phía Bắc để điều tra
+1914401 : Quyết Định Quan Trọng - Nói chuyện với Mamoru và những người khác
+1914402 : Quyết Định Quan Trọng - Đến tầng hai Nhà Hàng Uyuu
+1914403 : Quyết Định Quan Trọng - Nói chuyện với Arataki Itto
+1914404 : Quyết Định Quan Trọng - Quay về Nhà Hàng Uyuu
+1914405 : Quyết Định Quan Trọng - Nói chuyện với những người buôn bán trên phố
+1914406 : Quyết Định Quan Trọng - Nói chuyện với Aoi của "Tiệm Tạp Hóa Tsukumomono"
+1914407 : Quyết Định Quan Trọng - Nói chuyện với người cần xin lỗi tiếp theo
+1914408 : Quyết Định Quan Trọng - Nói chuyện với người của Bang Arataki
+1914409 : Quyết Định Quan Trọng - 
+1914501 : Một Ngày Của Pháp Sư - Tiếp đón khách trong đền thần
+1914502 : Một Ngày Của Pháp Sư - Tiếp tục tiếp đón khách
+1914503 : Một Ngày Của Pháp Sư - Đến cửa ra vào tiếp đón khách
+1914504 : Một Ngày Của Pháp Sư - 
+1914505 : Một Ngày Của Pháp Sư - Thu thập các vật liệu cần thiết để tạo ra bùa hộ mệnh
+1914506 : Một Ngày Của Pháp Sư - Thu thập các vật liệu cần thiết để tạo ra bùa hộ mệnh
+1914507 : Một Ngày Của Pháp Sư - Thu thập các vật liệu cần thiết để tạo ra bùa hộ mệnh
+1914508 : Một Ngày Của Pháp Sư - 
+1914509 : Một Ngày Của Pháp Sư - Nói chuyện với bà Asami
+1914510 : Một Ngày Của Pháp Sư - 
+1914511 : Một Ngày Của Pháp Sư - Nói chuyện với Yae Miko
+1914512 : Một Ngày Của Pháp Sư - Rời khỏi đền thần
+1914601 : Công Tác Hậu Kỳ - Nói chuyện với Miyuki trên đường núi
+1914602 : Công Tác Hậu Kỳ - Sử dụng nguyên tố Phong hoặc Thủy để xóa sạch quảng cáo
+1914603 : Công Tác Hậu Kỳ - Sử dụng nguyên tố Phong hoặc Thủy để xóa sạch quảng cáo
+1914604 : Công Tác Hậu Kỳ - Sử dụng nguyên tố Phong hoặc Thủy để xóa sạch quảng cáo
+1914605 : Công Tác Hậu Kỳ - 
+1914606 : Công Tác Hậu Kỳ - 
+1914607 : Công Tác Hậu Kỳ - 
+1914608 : Công Tác Hậu Kỳ - 
+1914609 : Công Tác Hậu Kỳ - Tiếp tục xuống núi dọn dẹp
+1914610 : Công Tác Hậu Kỳ - 
+1914611 : Công Tác Hậu Kỳ - 
+1914612 : Công Tác Hậu Kỳ - 
+1914613 : Công Tác Hậu Kỳ - 
+1914701 : Cố Gắng Học Tập - Quay lại Hanamizaka để kiểm tra tình hình
+1914801 : Tạm Thời Lánh Mặt - Xem xét tình hình chỗ Kuki Shinobu
+1914802 : Tạm Thời Lánh Mặt - Quay lại nơi ẩn nấp của Akira
+1914803 : Tạm Thời Lánh Mặt - Lần theo dấu chân để tìm Akira
+1914804 : Tạm Thời Lánh Mặt - Đi theo tờ quảng cáo để tìm Akira
+1914805 : Tạm Thời Lánh Mặt - Nói chuyện với Kairagi
+1914806 : Tạm Thời Lánh Mặt - Đánh bại tất cả kẻ địch
+1914807 : Tạm Thời Lánh Mặt - Nói chuyện với Kuki Shinobu
+1914808 : Tạm Thời Lánh Mặt - 
 2000001 : Khiêu Chiến Đến Khinh Sách Trang Đúng Giờ - 
 2000002 : Khiêu Chiến Đến Khinh Sách Trang Đúng Giờ - 
 2000003 : Khiêu Chiến Đến Khinh Sách Trang Đúng Giờ - 
@@ -8300,6 +8514,28 @@
 7109602 :  - 
 7109701 :  - 
 7109702 :  - 
+7109801 : Ca Khúc Khải Hoàn Của Garcia - 
+7109802 : Ca Khúc Khải Hoàn Của Garcia - 
+7109803 : Ca Khúc Khải Hoàn Của Garcia - Nói chuyện với Garcia
+7109804 : Ca Khúc Khải Hoàn Của Garcia - Đến nhà bếp
+7109805 : Ca Khúc Khải Hoàn Của Garcia - Nhóm lửa
+7109806 : Ca Khúc Khải Hoàn Của Garcia - Nấu "Canh Rau Củ Ngon"
+7109807 : Ca Khúc Khải Hoàn Của Garcia - Giao "Canh Rau Củ Ngon"
+7109808 : Ca Khúc Khải Hoàn Của Garcia - Nói chuyện với Garcia
+7109809 : Ca Khúc Khải Hoàn Của Garcia - 
+7109810 : Ca Khúc Khải Hoàn Của Garcia - 
+7109901 : Trên Và Dưới Sân Khấu - Nói chuyện với Liu Su
+7109902 : Trên Và Dưới Sân Khấu - Đến Khinh Sách Trang tìm Ông Lu
+7109903 : Trên Và Dưới Sân Khấu - Nói chuyện với Ông Lu
+7109904 : Trên Và Dưới Sân Khấu - Thu thập nguyên liệu gia dụng
+7109905 : Trên Và Dưới Sân Khấu - Nói chuyện với Dayu
+7109906 : Trên Và Dưới Sân Khấu - Đợi đến hôm sau (18:00-21:00)
+7109907 : Trên Và Dưới Sân Khấu - Đến Hòa Dụ Trà Quán
+7109908 : Trên Và Dưới Sân Khấu - Cùng Yun Jin đi pha trà
+7109909 : Trên Và Dưới Sân Khấu - Nói chuyện với Phạm Nhị Gia
+7109910 : Trên Và Dưới Sân Khấu - Đến kho bến cảng thu thập ván gỗ
+7109911 : Trên Và Dưới Sân Khấu - Giao ván gỗ cho Dayu
+7110101 : Thế Gian Dưới Phiến Quạt - Đi dạo phố tại Cảng Liyue
 7150001 : Bí Quyết Nấu Nướng I - Nói chuyện với Lưu Vân Tá Phong Chân Quân
 7150002 : Bí Quyết Nấu Nướng I - Đi theo mùi hương để tìm nguyên liệu
 7150003 : Bí Quyết Nấu Nướng I - Lấy nguyên liệu
@@ -8312,6 +8548,28 @@
 7150010 : Bí Quyết Nấu Nướng I - Báo cáo với Lưu Vân Tá Phong Chân Quân
 7150011 : Bí Quyết Nấu Nướng I - Báo cáo với Lưu Vân Tá Phong Chân Quân
 7150012 : Bí Quyết Nấu Nướng I - 
+7150101 : Bùn Sâu Kỳ Quái - Đến Hiệp Hội Nhà Mạo Hiểm Liyue tìm Katheryne
+7150102 : Bùn Sâu Kỳ Quái - Đến doanh trại khu mỏ tìm học giả Sumeru
+7150103 : Bùn Sâu Kỳ Quái - Mở "Gai Pursina"
+7150104 : Bùn Sâu Kỳ Quái - Nói chuyện với Hosseini
+7150201 : Báo Cáo Tự Vận Hành Gai - Sơ Lược - Nói chuyện với Hosseini
+7150202 : Báo Cáo Tự Vận Hành Gai - Sơ Lược - Mở "Gai Pursina"
+7150203 : Báo Cáo Tự Vận Hành Gai - Sơ Lược - Đợi đến một ngày sau
+7150301 : Báo Cáo Tự Vận Hành Gai - Môi Trường - Nói chuyện với Hosseini
+7150302 : Báo Cáo Tự Vận Hành Gai - Môi Trường - Mở "Gai Pursina"
+7150303 : Báo Cáo Tự Vận Hành Gai - Môi Trường - Đợi đến một ngày sau
+7150401 : Báo Cáo Tự Vận Hành Gai - Thực Nghiệm - Nói chuyện với Hosseini
+7150402 : Báo Cáo Tự Vận Hành Gai - Thực Nghiệm - Nói chuyện với Tu
+7150403 : Báo Cáo Tự Vận Hành Gai - Thực Nghiệm - Khởi động Khí Cầu để vận chuyển "Gai"
+7150404 : Báo Cáo Tự Vận Hành Gai - Thực Nghiệm - Đợi đến một ngày sau
+7150501 : Báo Cáo Tự Vận Hành Gai - Kết Luận - Nói chuyện với Hosseini
+7150502 : Báo Cáo Tự Vận Hành Gai - Kết Luận - Khởi động "Gai Pursina" để đóng lỗ thông hơi địa mạch
+7150503 : Báo Cáo Tự Vận Hành Gai - Kết Luận - Đợi đến một ngày sau
+7150601 : Bùn Sâu Kỳ Quái - Nói chuyện với Hosseini
+7150701 : Báo Cáo Tự Vận Hành Gai - Sơ Lược - Báo cáo với Hosseini
+7150801 : Báo Cáo Tự Vận Hành Gai - Môi Trường - Báo cáo với Hosseini
+7150901 : Báo Cáo Tự Vận Hành Gai - Thực Nghiệm - Nói chuyện với Hosseini
+7151001 : Báo Cáo Tự Vận Hành Gai - Kết Luận - Báo cáo với Hosseini
 7155500 : Thần Luật có ai đó - 
 7155501 : Thần Luật có ai đó - 
 7155502 : Thần Luật có ai đó - Điều tra doanh trại kỳ lạ
@@ -8871,11 +9129,11 @@
 7210436 :  - 
 7210437 :  - 
 7210501 : Nghi Thức YouGou - 
-7210502 : Nghi Thức YouGou - Báo cáo lại với Kazari
-7210503 : Nghi Thức YouGou - Đến khe nứt ở dưới chân núi Yougou và nói chuyện với Kazari
+7210502 : Nghi Thức YouGou - Báo cáo lại với Hanachirusato
+7210503 : Nghi Thức YouGou - Đến khe nứt ở dưới chân núi Yougou và nói chuyện với Hanachirusato
 7210504 : Nghi Thức YouGou - Nhảy vào
 7210505 : Nghi Thức YouGou - Đánh bại "Khối Chướng Khí"
-7210506 : Nghi Thức YouGou - Nói chuyện với Kazari
+7210506 : Nghi Thức YouGou - Nói chuyện với Hanachirusato
 7210507 : Nghi Thức YouGou - Nhặt mặt nạ
 7210508 : Nghi Thức YouGou - 
 7210509 : Nghi Thức YouGou - 
@@ -8910,7 +9168,7 @@
 7210627 : Câu chuyện Konda - Khám phá đáy giếng
 7210628 : Câu chuyện Konda - Tìm manh mối
 7210629 : Câu chuyện Konda - 
-7210630 : Câu chuyện Konda - Nói chuyện với Kazari
+7210630 : Câu chuyện Konda - Nói chuyện với Hanachirusato
 7210631 : Câu chuyện Konda - 
 7210632 : Câu chuyện Konda - 
 7210701 : Dâng lên tế thần - 
@@ -8935,7 +9193,7 @@
 7210720 : Dâng lên tế thần - 
 7210721 : Dâng lên tế thần - Tìm "kết giới"
 7210722 : Dâng lên tế thần - Phá "kết giới"
-7210723 : Dâng lên tế thần - Nói chuyện với Kazari
+7210723 : Dâng lên tế thần - Nói chuyện với Hanachirusato
 7210724 : Dâng lên tế thần - 
 7210725 : Dâng lên tế thần - 
 7210726 : Dâng lên tế thần - 
@@ -8964,7 +9222,7 @@
 7210815 : Hayashi Tanuki trong rừng - Báo cáo cho Ioroi
 7210816 : Hayashi Tanuki trong rừng - 
 7210817 : Hayashi Tanuki trong rừng - Phá "kết giới"
-7210818 : Hayashi Tanuki trong rừng - Nói chuyện với Kazari
+7210818 : Hayashi Tanuki trong rừng - Nói chuyện với Hanachirusato
 7210819 : Hayashi Tanuki trong rừng - Tìm nguồn gốc của "âm thanh kỳ lạ"
 7210820 : Hayashi Tanuki trong rừng - 
 7210821 : Hayashi Tanuki trong rừng - 
@@ -10603,35 +10861,35 @@
 7227628 : Bí Ẩn Về Bunkoku - Nói chuyện với Paimon
 7227701 : null - 
 7227702 : null - 
-7227801 : Câu Truyện Dâng Tặng - Nói chuyện với Albedo
-7227802 : Câu Truyện Dâng Tặng - Đi dạo cùng Klee
-7227803 : Câu Truyện Dâng Tặng - Đi dạo cùng Klee
-7227804 : Câu Truyện Dâng Tặng - Đưa 3 phần Trứng Cuộn Ngon cho Klee
-7227805 : Câu Truyện Dâng Tặng - Nói chuyện với Klee
-7227806 : Câu Truyện Dâng Tặng - Đến Tiệm Pháo Hoa Naganohara
-7227807 : Câu Truyện Dâng Tặng - Nói chuyện với Yoimiya
-7227808 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227809 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227810 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227811 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227812 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227813 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227814 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227815 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227816 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227817 : Câu Truyện Dâng Tặng - Đến Tiệm Pháo Hoa Naganohara
-7227818 : Câu Truyện Dâng Tặng - Nói chuyện với Klee
-7227819 : Câu Truyện Dâng Tặng - Đến bên cửa sổ
-7227820 : Câu Truyện Dâng Tặng - Đến bên cửa sổ
-7227821 : Câu Truyện Dâng Tặng - Đến Nhà Xuất Bản Yae
-7227822 : Câu Truyện Dâng Tặng - Đến Nhà Xuất Bản Yae
-7227823 : Câu Truyện Dâng Tặng - Chờ in xong (14:00 - 16:00 ngày mai)
-7227824 : Câu Truyện Dâng Tặng - Đến hội trường Lễ Hội Irodori
-7227825 : Câu Truyện Dâng Tặng - Nói chuyện với Klee
-7227826 : Câu Truyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
-7227827 : Câu Truyện Dâng Tặng - 
-7227828 : Câu Truyện Dâng Tặng - 
-7227829 : Câu Truyện Dâng Tặng - 
+7227801 : Câu Chuyện Dâng Tặng - Nói chuyện với Albedo
+7227802 : Câu Chuyện Dâng Tặng - Đi dạo cùng Klee
+7227803 : Câu Chuyện Dâng Tặng - Đi dạo cùng Klee
+7227804 : Câu Chuyện Dâng Tặng - Đưa 3 phần Trứng Cuộn Ngon cho Klee
+7227805 : Câu Chuyện Dâng Tặng - Nói chuyện với Klee
+7227806 : Câu Chuyện Dâng Tặng - Đến Tiệm Pháo Hoa Naganohara
+7227807 : Câu Chuyện Dâng Tặng - Nói chuyện với Yoimiya
+7227808 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227809 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227810 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227811 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227812 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227813 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227814 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227815 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227816 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227817 : Câu Chuyện Dâng Tặng - Đến Tiệm Pháo Hoa Naganohara
+7227818 : Câu Chuyện Dâng Tặng - Nói chuyện với Klee
+7227819 : Câu Chuyện Dâng Tặng - Đến bên cửa sổ
+7227820 : Câu Chuyện Dâng Tặng - Đến bên cửa sổ
+7227821 : Câu Chuyện Dâng Tặng - Đến Nhà Xuất Bản Yae
+7227822 : Câu Chuyện Dâng Tặng - Đến Nhà Xuất Bản Yae
+7227823 : Câu Chuyện Dâng Tặng - Chờ in xong (14:00 - 16:00 ngày mai)
+7227824 : Câu Chuyện Dâng Tặng - Đến hội trường Lễ Hội Irodori
+7227825 : Câu Chuyện Dâng Tặng - Nói chuyện với Klee
+7227826 : Câu Chuyện Dâng Tặng - Cùng Yoimiya và Klee đến Lễ Hội Irodori tham quan
+7227827 : Câu Chuyện Dâng Tặng - 
+7227828 : Câu Chuyện Dâng Tặng - 
+7227829 : Câu Chuyện Dâng Tặng - 
 7227901 : Giải Cứu Bảng Chụp Hình - Nói chuyện với Kimura
 7227902 : Giải Cứu Bảng Chụp Hình - Đến gần bảng chụp ảnh Tanuki
 7227903 : Giải Cứu Bảng Chụp Hình - Trò chuyện với Itto
@@ -10699,6 +10957,7 @@
 7228402 : null - 
 7228403 : null - 
 7228801 :  - 
+7250001 : Phía Sau Buổi Lễ - Nói chuyện với Mamoru
 7265001 : Trường Phái Geneishin - Ảo Tưởng Kiếm - Nói chuyện với Shousen
 7265101 : Cách tìm kho báu khác sao? - 
 7265102 : Cách tìm kho báu khác sao? - Nói chuyện với Ulman
@@ -10833,6 +11092,13 @@
 7268202 : Hyakunin Ikki - Cơn Lốc Vàng Óng - Nói chuyện với Kayabuki
 7268301 : Chụp Hình Ngoại Cảnh - Quan sát họa sĩ
 7268302 : Chụp Hình Ngoại Cảnh - Nói chuyện với Asagiri
+7268401 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - 
+7268402 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Đến đảo Ritou
+7268403 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Nói chuyện với Kimura của Hiệp Hội Tenryou
+7268404 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Đến Đảo Amakane tìm Bang Arataki
+7268405 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Nói chuyện với Hirohiko, đại diện Hiệp Hội Yashiro
+7268406 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Đến bãi đất phía tây bắc Đảo Amakane
+7268407 : Đại Hội Đánh Trống Arataki Long Trọng Bậc Nhất - Đến chỗ Genta bắt đầu lễ hội đánh trống
 7268501 : Cờ Cơ Quan - Thế Trận Khéo Léo - Nói chuyện với Komakata
 7268601 : Lên Đường Thôi! Cơn Lốc Vàng Óng! - Nói chuyện với Yasuhiko Tarou
 7268701 : Bóng Hoa Sân Đình I - Nói chuyện với Fushizome
@@ -10864,6 +11130,25 @@
 7269304 : Ý Thơ Irodori III - Báo cáo lại cho Ootomo
 7269305 : Ý Thơ Irodori III - Nói chuyện với Lenne
 7269306 : Ý Thơ Irodori III - Đợi đến sáng hôm sau (8h-12h), nói chuyện với Ootomo.
+7269401 : Tấn Công Thị Trường Đồ Chơi - Đến Hiệp Hội Nhà Mạo Hiểm Inazuma
+7269402 : Tấn Công Thị Trường Đồ Chơi - Đến Đảo Ritou, tìm Bertrand
+7269403 : Tấn Công Thị Trường Đồ Chơi - Thu thập 3 khoáng sản ở bên ngoài
+7269404 : Tấn Công Thị Trường Đồ Chơi - Giao máy thu thập cho Bertrand
+7269405 : Tấn Công Thị Trường Đồ Chơi - Thu thập 3 hoa ở bên ngoài
+7269406 : Tấn Công Thị Trường Đồ Chơi - Thu thập 6 quả ở bên ngoài
+7269501 : Tấn Công Thị Trường Đồ Chơi - Lưu Trữ Năng Lượng - Đến Đảo Ritou, tìm Bertrand
+7269502 : Tấn Công Thị Trường Đồ Chơi - Lưu Trữ Năng Lượng - Đến nơi đánh dấu để chịu ảnh hưởng bởi Nguyên Tố Hỏa trong 15s
+7269503 : Tấn Công Thị Trường Đồ Chơi - Lưu Trữ Năng Lượng - Giao máy thu thập cho Bertrand
+7269504 : Tấn Công Thị Trường Đồ Chơi - Lưu Trữ Năng Lượng - Đến nơi đánh dấu để chịu ảnh hưởng bởi Nguyên Tố Thủy trong 15s
+7269505 : Tấn Công Thị Trường Đồ Chơi - Lưu Trữ Năng Lượng - Đến nơi đánh dấu để chịu ảnh hưởng bởi Nguyên Tố Lôi trong 15s
+7269601 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Đến Đảo Ritou, tìm Bertrand
+7269602 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Đánh bại 3 Slime nhận được 3 phần Sức Mạnh Hạt Nhân
+7269603 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Giao máy thu thập cho Bertrand
+7269604 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Chế tạo đồ chơi 1 lần
+7269605 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Nói chuyện với Bertrand
+7269606 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Đánh bại 2 Bóng Ma để nhận 4 Sức Mạnh Hạt Nhân
+7269607 : Tấn Công Thị Trường Đồ Chơi - Sức Mạnh Hạt Nhân - Đánh bại 2 Nguyên Tố Nguyên Bản nhận được 4 phần Sức Mạnh Hạt Nhân
+7269701 : Tấn Công Thị Trường Đồ Chơi - Sản Xuất Hàng Loạt - Đến Đảo Ritou, tìm Bertrand
 7269801 : Cuộc Chiến Với Ookubo Sanzaemon - Nói chuyện với Ookubo Sanzaemon
 7269901 : Cuộc Chiến Với Yasuhiko Tarou - Nói chuyện với Yasuhiko Tarou
 7270101 : Hilichurl Gây Rối - Đánh lui Hilichurl
@@ -10898,6 +11183,7 @@
 7272301 :  - 
 7272401 : Giữ Lại Hình Bóng Này - Nói chuyện với Xu
 7272501 :  - 
+7272601 : null - 
 7280001 : Đội Ẩm Thực Toàn Năng - Hành Trình Tìm Thức Ăn - Nói chuyện với Xudong
 7280002 : Đội Ẩm Thực Toàn Năng - Hành Trình Tìm Thức Ăn - Đến chỗ chỉ định tìm nguyên liệu
 7280003 : Đội Ẩm Thực Toàn Năng - Hành Trình Tìm Thức Ăn - Đi tìm nguyên liệu
