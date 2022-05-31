@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Server 1 (2.6)",
+    "name": "Server 1 (2.7)",
     "hostAddress": "genshin-s1.w4vn.net",
     "hostPort": "443",
     "proxyHost": "proxy-genshin.w4vn.net",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Server 2 (2.7)",
+    "name": "Server 2 (2.7 - dev)",
     "hostAddress": "genshin-s2.w4vn.net",
     "hostPort": "443",
     "proxyHost": "proxy-genshin.w4vn.net",
