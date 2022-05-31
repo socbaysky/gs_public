@@ -1,0 +1,570 @@
+// Monsters
+20010101 : Slime Thảo
+20010201 : Slime Thảo Lớn
+20010202 : 
+20010301 : Slime Phong
+20010302 : Slime Phong (Tháp Phòng)
+20010401 : Slime Phong Lớn
+20010402 : Slime Phong Lớn (Tháp Phòng)
+20010403 : 
+20010501 : Slime Lôi
+20010502 : Slime Lôi (Tháp Phòng)
+20010601 : Slime Lôi Lớn
+20010602 : Slime Lôi Lớn (Tháp Phòng)
+20010604 : 
+20010701 : Slime Lôi Biến Dị
+20010702 : 
+20010703 : Slime Lôi Biến Dị (Tháp Phòng)
+20010801 : Slime Băng
+20010802 : Slime Băng - Sự kiện núi tuyết
+20010803 : Slime Băng (Tháp Phòng)
+20010901 : Slime Băng Lớn
+20010902 : Slime Băng Lớn - Sự kiện núi tuyết
+20010903 : Slime Băng Lớn (Tháp Phòng)
+20010904 : 
+20011001 : Slime Thủy
+20011002 : Slime Thủy (Tháp Phòng)
+20011101 : Slime Thủy Lớn
+20011102 : Slime Thủy Lớn (Tháp Phòng)
+20011103 : 
+20011201 : Slime Hỏa
+20011202 : Slime Hỏa
+20011203 : Slime Hỏa (Tháp Phòng)
+20011301 : Slime Hỏa Lớn
+20011302 : Slime Hỏa Lớn (Tháp Phòng)
+20011304 : 
+20011401 : Slime Nham
+20011402 : Slime Nham (Tháp Phòng)
+20011501 : Slime Nham Lớn
+20011502 : 
+20011503 : Slime Nham Lớn (Tháp Phòng)
+20011601 : Thủy Nguyên Bản - Vật triệu hồi - Phân giải lớn
+20011701 : Thủy Nguyên Bản - Vật triệu hồi - Phân giải nhỏ
+20011801 : Thủy Nguyên Bản - Vật triệu hồi - Tự nổ
+20011901 : Thủy Nguyên Bản - Vật triệu hồi - Hồi máu
+20020101 : Mắt Bão
+20040101 : Lôi Nguyên Bản Aleph
+20040102 : (Sự kiện) Lôi Nguyên Bản Aleph
+20040201 : Phong Nguyên Bản Bett
+20040202 : (Sự kiện) Phong Nguyên Bản Bett
+20040301 : Nham Nguyên Bản Grimoire
+20040302 : (Sự kiện) Nham Nguyên Bản Grimoire
+20040401 : Thủy Nguyên Bản
+20040501 : Băng Nguyên Bản Daleth
+20040601 : Hỏa Nguyên Bản Ayin
+20050101 : Tinh Linh Nước Trong
+20050102 : Tinh Linh Nước Trong (bản thể)
+20050201 : Heo Nước Trong
+20050202 : Heo Nước Trong (cường hóa)
+20050203 : 
+20050301 : Hạc Nước Trong
+20050302 : 
+20050401 : Cua Nước Trong
+20050402 : Cua Nước Trong (cường hóa)
+20050403 : 
+20050501 : Chim Nước Trong
+20050502 : 
+20050601 : Vịt Nước Trong
+20050602 : Vịt Nước Trong (Đi Bộ)
+20050603 : 
+20050701 : Chuột Nước Trong
+20050702 : Chuột Nước Trong (cường hóa)
+20050703 : 
+20050801 : Ếch Nước Trong
+20050802 : 
+20050901 : Chim Ưng Nước Trong
+20060101 : Bóng Ma - Thủy
+20060201 : Bóng Ma - Nham
+20060301 : Bóng Ma - Phong
+20060401 : null
+20060501 : null
+20060601 : null
+20070101 : Thực Thể Sấm Sét
+21010101 : Hilichurl
+21010102 : Hilichurl (Tháp Phòng)
+21010201 : Hilichurl Chiến Sĩ
+21010301 : Hilichurl Khiên Gỗ
+21010302 : Hilichurl Khiên Gỗ (Tháp Phòng)
+21010401 : Xạ Thủ Hilichurl
+21010402 : 
+21010501 : Hilichurl Hỏa Tiễn
+21010502 : 
+21010601 : Hilichurl Đạn Nổ
+21010603 : 
+21010701 : Hilichurl Tiên Phong
+21010702 : Tiên Phong Hilichurl (Tháp Phòng)
+21010901 : Hilichurl Băng Tiễn
+21010902 : 
+21011001 : Hilichurl Lôi Tiễn
+21011002 : 
+21011201 : Hilichurl Khiên Đá
+21011202 : Hilichurl Khiên Đá (Tháp Phòng)
+21011301 : Hilichurl Đạn Băng
+21011302 : Hilichurl Đạn Băng - Cường Hóa Tấn Công
+21011401 : Hilichurl Khiên Băng
+21011402 : Hilichurl Khiên Băng (Tháp Phòng)
+21011403 : 
+21011501 : Hilichurl Tay Không Kỳ Lạ
+21011601 : Hilichurl Đạn Lôi
+21011602 : Hilichurl Đạn Lôi - Cường Hóa Tấn Công
+21020101 : Bạo Đồ Hilichurl Khiên Gỗ
+21020102 : Bạo Đồ Hilichurl Khiên Gỗ (Tháp Phòng)
+21020201 : Bạo Đồ Hilichurl Búa Lửa
+21020202 : 
+21020203 : Bạo Đồ Hilichurl Búa Lửa (Tháp Phòng)
+21020301 : Bạo Đồ Hilichurl Khiên Đá
+21020302 : Bạo Đồ Hilichurl Khiên Đá (Tháp Phòng)
+21020401 : Vua Giáp Băng Hilichurl
+21020402 : Vua Giáp Băng Hilichurl (Tháp Phòng)
+21020501 : Vua Mũ Đá Hilichurl
+21020502 : Vua Mũ Đá Hilichurl (Tháp Phòng)
+21020601 : Bạo Đồ Hilichurl Khiên Băng
+21020602 : Bạo Đồ Hilichurl Khiên Băng (Tháp Phòng)
+21020701 : Bạo Đồ Hilichurl Búa Lôi
+21020702 : Bạo Đồ Hilichurl Búa Lôi (Tháp Phòng)
+21020703 : Bạo Đồ Hilichurl Búa Lôi - Cường Hóa Tấn Công
+21020801 : Vua Giáp Lôi Hilichurl
+21020802 : Vua Giáp Lôi Hilichurl (Tháp Phòng)
+21030101 : Phù Thủy Hilichurl Thủy
+21030102 : Phù Thủy Hilichurl Thủy (Tháp Phòng)
+21030103 : 
+21030201 : Phù Thủy Hilichurl Thảo
+21030202 : Phù Thủy Hilichurl Thảo (Tháp Phòng)
+21030203 : 
+21030301 : Phù Thủy Hilichurl Phong
+21030302 : Phù Thủy Hilichurl Phong (Tháp Phòng)
+21030303 : 
+21030304 : 
+21030401 : Phù Thủy Hilichurl Nham
+21030402 : 
+21030403 : Phù Thủy Hilichurl Nham (Tháp Phòng)
+21030501 : Phù Thủy Hilichurl Băng
+21030502 : Phù Thủy Hilichurl Băng (Tháp Phòng)
+21030601 : Phù Thủy Hilichurl Lôi
+21030602 : Phù Thủy Hilichurl Lôi (Tháp Phòng)
+21030603 : Phù Thủy Hilichurl Lôi - Cường Hóa Chi Viện
+22010101 : Pháp Sư Vực Sâu Hỏa
+22010102 : 
+22010103 : 
+22010104 : 
+22010105 : Pháp Sư Vực Sâu Hỏa (Tháp Phòng)
+22010201 : Pháp Sư Vực Sâu Băng
+22010202 : 
+22010203 : 
+22010204 : 
+22010205 : Pháp Sư Vực Sâu Băng (Tháp Phòng)
+22010301 : Pháp Sư Vực Sâu Thủy
+22010302 : 
+22010303 : 
+22010304 : 
+22010305 : Pháp Sư Vực Sâu Thủy (Tháp Phòng)
+22010401 : Pháp Sư Vực Sâu Lôi
+22010402 : Pháp Sư Vực Sâu Lôi (Tháp Phòng)
+22010403 : Pháp Sư Vực Sâu Lôi - Cường Hóa Phòng Ngự
+22010404 : Pháp Sư Vực Sâu Lôi - Cường Hóa Tấn Công
+22020101 : Sứ Đồ Vực Sâu - Kích Lưu (Biến Mất)
+22020102 : Sứ Đồ Vực Sâu - Kích Lưu (Thường Trực)
+22030101 : Học Sĩ Vực Sâu - Tử Điện (Biến Mất)
+22030102 : Học Sĩ Vực Sâu - Tử Điện (Thường Trực)
+22030201 : null
+22030202 : null
+22040101 : Thể Nham - Ma Thú Con
+22040201 : Thể Lôi - Ma Thú Con
+22050101 : Thể Nham - Chó Săn Ma Vật
+22050201 : Thể Lôi - Chó Săn Ma Vật
+22060101 : Vua Thú Hoàng Kim
+22070101 : null
+22070102 : null
+22070201 : null
+22070202 : null
+22070301 : null
+22070302 : null
+22080101 : null
+22090101 : null
+23010101 : 
+23010201 : 
+23010301 : 
+23010401 : 
+23010501 : 
+23010601 : 
+23020101 : Fatui Người Xử Lý Nợ
+23020102 : 
+23030101 : Fatui - Thuật Sĩ Cicin Lôi
+23030102 : 
+23040101 : Fatui Thuật Sĩ Cicin Băng
+23040102 : Fatui Thuật Sĩ Cicin Băng - Cường Hóa Tấn Công
+23050101 : Fatui - Thiếu Nữ Kính
+24010101 : Thủ Vệ Di Tích
+24010102 : Thủ Vệ Di Tích (Tháp Phòng)
+24010108 : 
+24010109 : 
+24010201 : Thợ Săn Di Tích
+24010202 : Thợ Săn Di Tích (Canh Tháp)
+24010301 : Cần Cẩu Di Tích
+24010302 : Cần Cẩu Di Tích (Tháp Phòng)
+24010303 : Cần Cẩu Di Tích (Đào Khoáng)
+24010401 : null
+24020101 : Tuần Tra Di Tích
+24020102 : Tuần Tra Di Tích (Suy Yếu)
+24020103 : Tuần Tra Di Tích (Cường Hóa)
+24020201 : Tiên Phong Di Tích
+24020202 : Tiên Phong Di Tích (Suy Yếu)
+24020203 : Tiên Phong Di Tích (Cường Hóa)
+24020301 : Hộ Vệ Di Tích
+24020302 : Hộ Vệ Di Tích (Suy Yếu)
+24020303 : Hộ Vệ Di Tích (Cường Hóa)
+24020401 : Trinh Sát Di Tích
+24020402 : Trinh Sát Di Tích (Suy Yếu)
+24020403 : Trinh Sát Di Tích (Cường Hóa)
+24021101 : Mô Hình Động Cơ Vĩnh Cửu
+24021102 : Mô Hình Động Cơ Vĩnh Cửu (Dùng trong sự kiện của Inazuma)
+25010101 : Liuliu
+25010102 : Người Thần Bí
+25010103 : 
+25010104 : 
+25010105 : null
+25010106 : null
+25010201 : Trinh Sát Đạo Bảo Đoàn
+25010203 : 
+25010204 : 
+25010205 : 
+25010206 : 
+25010207 : 
+25010208 : 
+25010301 : 
+25010302 : 
+25010401 : 
+25010501 : 
+25010601 : 
+25010701 : 
+25020101 : [Quái Điểu]
+25020102 : 
+25020201 : Xạ Thủ Thần Đạo Bảo Đoàn
+25020204 : 
+25030101 : "Kẹp Cửa"
+25030102 : null
+25030103 : null
+25030201 : Kẻ Đào Mộ Đạo Bảo Đoàn
+25030301 : Mái Chèo Đạo Bảo Đoàn
+25040101 : [Chị Đại]
+25040102 : null
+25040103 : null
+25050101 : Binh Sĩ Thiên Nham Quân
+25050201 : Giáo Đầu Thiên Nham Quân
+25050301 : Bộ Binh Shogunate
+25050401 : Bộ Binh Trưởng Shogunate
+25050402 : 
+25050501 : Quân Sangonomiya
+25050502 : (test) Binh Lính Quân Kháng Chiến Của Kokomi
+25060101 : 
+25060102 : 
+25070101 : 
+25070201 : null
+25070202 : null
+25080101 : Ronin
+25080201 : Ronin: Sanzoku
+25080202 : null
+25080301 : Ronin: Anbu
+25080401 : Shogunate Samurai
+25080402 : null
+25090101 : Tướng Quân Marionette
+25090102 : Tướng Quân Marionette - Phân Thân Phong
+25090103 : Tướng Quân Marionette - Phân Thân Băng
+25090104 : Tướng Quân Marionette - Phân Thân Mặt Nạ
+25090201 : 
+25090301 : 
+25090401 : 
+25100101 : Kairagi - Lôi
+25100102 : null
+25100201 : Kairagi - Hỏa
+25100301 : Kairagi - U Linh Lôi
+25100302 : null
+25100401 : Kairagi - U Linh Hỏa
+26010101 : Hoa Lừa Dối - Băng
+26010102 : Hoa Lừa Dối Băng (Sự kiện núi tuyết)
+26010103 : 
+26010104 : 
+26010201 : Hoa Lừa Dối - Hỏa
+26010301 : Hoa Lừa Dối - Lôi
+26020101 : Cây Cấp Đông
+26020102 : Cây Cấp Đông (Sự kiện núi tuyết)
+26020201 : Cây Nổ
+26030101 : Rồng Đất Nhỏ Nham
+26040101 : Rồng Đất Nham - Thuỷ
+26040102 : Rồng Đất Nham -
+26040103 : Rồng Đất Nham - Băng
+26040104 : Rồng Đất Nham - Điện
+26040105 : Rồng Đất Nham - Thuỷ (Tháp Phòng)
+26050101 : Rồng Đất Cổ - Thủy
+26050201 : Rồng Đất Nham Cổ - Hoả
+26050301 : Rồng Đất Nham Cổ - Băng
+26050401 : Rồng Đất Nham Cổ - Điện
+26050501 : Rồng Đất Cổ - Nham - Hoạt động
+26050601 : null
+26050701 : null
+26050702 : null
+26050801 : null
+26050802 : null
+26050901 : null
+26051001 : null
+26051101 : null
+26060101 : Cicin Lôi
+26060201 : Cicin Thủy
+26060301 : Cicin Băng
+26080101 : null
+26090101 : null
+28010101 : Cua Hoàng Kim
+28010102 : Cua Thái Dương
+28010103 : Cua Biển Xanh
+28010104 : Cua Tướng Quân
+28010105 : Cua Đỏ
+28010106 : Cua
+28010201 : Rồng Đất Lam
+28010202 : Rồng Đất Đỏ
+28010203 : Rồng Đất Lục
+28010204 : Cá Chạch Hoàng Hôn
+28010205 : Cá Chạch Kim
+28010206 : Cá Chạch Ngày Nắng
+28010207 : Rồng Đất Ăn Tủy
+28010301 : Ếch Xanh
+28010302 : Ếch Nước
+28010303 : Ếch Lam
+28010401 : (test) Lươn 01
+28010402 : null
+28010403 : (test) Lươn 03
+28020101 : Cáo Tuyết
+28020102 : Cáo Đỏ
+28020103 : Cáo Tuyết Tặng Quà
+28020104 : Cáo Tuyết Tặng Quà Lớn
+28020105 : null
+28020106 : null
+28020201 : Sóc
+28020301 : Heo Rừng Hoang Dã
+28020302 : Heo Rừng Nhỏ
+28020303 : Heo Tuyết
+28020304 : Vua Heo Tuyết
+28020305 : Heo Tuyết Đóng Băng
+28020306 : null
+28020307 : null
+28020308 : null
+28020309 : null
+28020401 : Chó Bắc Địa
+28020402 : Chó Canh Rừng
+28020403 : Shiba
+28020404 : Chó Săn Lưng Đen
+28020405 : Shiba
+28020406 : 
+28020407 : null
+28020408 : null
+28020409 : null
+28020410 : null
+28020501 : Lam Bảo Thạch
+28020502 : Mèo Mắt Biếc
+28020503 : Mèo Xám Trắng
+28020504 : Mèo Phương Bắc
+28020505 : Mèo Vằn Hổ
+28020506 : Mèo Cảnh Sát
+28020507 : Mèo Mun
+28020508 : Lam Bảo Thạch
+28020509 : 
+28020510 : null
+28020511 : null
+28020512 : null
+28020513 : null
+28020601 : Chồn Sóc Trắng
+28020602 : Chồn Sóc Đuôi Đỏ
+28020603 : Chồn Sóc Hình Giày
+28020604 : Chồn Sóc Mặt Nạ
+28020605 : null
+28020701 : Hồ Ly
+28020702 : 
+28020801 : Bake-Danuki
+28020802 : null
+28020803 : null
+28020901 : 
+28020902 : 
+28020903 : null
+28030101 : Cò Lông Xanh
+28030102 : Ibis Tím
+28030201 : Đại Bàng Vàng
+28030202 : Đại Bàng Nâu
+28030203 : Thạch Diên
+28030204 : Đại Bàng Trắng
+28030301 : Bồ Câu Trắng
+28030302 : Bồ Câu Li Quán
+28030303 : Bồ Câu Nâu
+28030304 : Bồ Câu Đỏ
+28030305 : Bồ Câu Đen
+28030306 : Quạ
+28030307 : Bồ Câu Trắng
+28030308 : Bồ Câu Li Quán
+28030309 : Bồ Câu Nâu
+28030310 : Bồ Câu Đỏ
+28030311 : Bồ Câu Đen
+28030401 : Chim Sẻ Đỏ
+28030402 : Chim Sẻ Vàng
+28030403 : Chim Sẻ Tuyết
+28030404 : Chim Sẻ Bích
+28030405 : null
+28030406 : null
+28030407 : null
+28030408 : null
+28030409 : null
+28030501 : Vịt
+28030502 : Vịt
+28030503 : Vịt
+28030504 : null
+28040101 : Cá Chép Đen
+28040102 : Cá Chép Xanh
+28040103 : Cá Chép Vàng
+28040104 : Cá Chép Đen
+28040105 : Cá Chép Đen
+28040106 : Cá Chép Xanh
+28040107 : Cá Chép Vàng
+28040108 : null
+28040201 : Cá Khổng Tước
+28040202 : Cá Khổng Tước Lưu Ly
+28040203 : Cá Khổng Tước Ngọt
+28040204 : Cá Khổng Tước Lam
+28040205 : Cá Bình Minh
+28040206 : Cá Pha Lê
+28040301 : Cá Thân Gai
+28040302 : Cá Gai Đấu Sĩ
+28040303 : Cá Gai Độc
+28040304 : Xích Ma Vương
+28040305 : Tuyết Quân Tử
+28040401 : Cá Rồng Xích Kim
+28040402 : Cá Rồng Thép
+28040501 : Cá Bướm Vân Đất
+28040502 : Cá Bướm Vân Tím
+28040503 : Cá Bướm Vân Trà
+28040504 : Trường Sinh Tiên
+28040505 : Lôi Minh Tiên
+28040506 : Cá Ánh Trăng
+28040601 : Cá Pháo
+28040602 : Cá Pháo Cay Đắng
+28040701 : null
+28040702 : null
+28040703 : null
+28050101 : Phong Tinh Điệp
+28050102 : Nham Tinh Điệp
+28050103 : Băng Tinh Điệp
+28050104 : Lôi Tinh Điệp
+28050105 : null
+28050201 : Chồn Trộm Báu Vật Tân Thủ
+28050202 : Chồn Trộm Báu Vật Vàng
+28050203 : Chồn Trộm Báu Vật Vàng Lớn
+28050204 : null
+28050211 : Chồn Trộm Báu Vật Tân Thủ
+28050212 : Chồn Trộm Báu Vật Vàng
+28050213 : Chồn Trộm Báu Vật Vàng Lớn
+28050221 : null
+28050222 : null
+28050223 : null
+28050301 : null
+28210101 : 
+28210102 : 
+28210103 : 
+28210104 : 
+28210105 : 
+28210201 : 
+28210202 : 
+28210203 : 
+28210204 : 
+28210205 : 
+28210206 : 
+28210207 : 
+28210301 : 
+28210302 : 
+28210303 : 
+28210401 : 
+28210402 : null
+28210403 : 
+28220101 : 
+28220102 : 
+28220201 : 
+28220301 : Heo Rừng Gia Viên
+28220303 : 
+28220401 : Chó Bắc Địa Gia Viên
+28220402 : Chó Kiểm Lâm Gia Viên
+28220403 : Shiba Gia Viên
+28220404 : Chó Săn Lưng Đen Gia Viên
+28220501 : 
+28220502 : Mèo Mắt Biếc Gia Viên
+28220503 : 
+28220504 : Mèo Phương Bắc Gia Viên
+28220505 : Mèo Vằn Hổ Gia Viên
+28220506 : Mèo Cảnh Sát Gia Viên
+28220601 : 
+28220602 : 
+28220603 : 
+28220605 : null
+28220701 : 
+28220901 : 
+28230101 : Cò Lông Xanh Gia Viên
+28230102 : 
+28230301 : 
+28230302 : 
+28230303 : 
+28230304 : 
+28230305 : 
+28230306 : 
+28230401 : 
+28230402 : 
+28230403 : 
+28230404 : 
+28240201 : Cá Khổng Tước Gia Viên
+28240202 : Cá Khổng Tước Lưu Ly Gia Viên
+28240203 : Cá Khổng Tước Ngọt Gia Viên
+28240204 : Cá Khổng Tước Lam Gia Viên
+28240205 : Cá Bình Minh Gia Viên
+28240206 : Cá Pha Lê Gia Viên
+28240301 : Cá Thân Gai Gia Viên
+28240302 : Cá Gai Đấu Sĩ Gia Viên
+28240303 : Cá Gai Độc Gia Viên
+28240304 : Xích Ma Vương Gia Viên
+28240305 : Tuyết Quân Tử Gia Viên
+28240401 : Cá Rồng Xích Kim Gia Viên
+28240402 : Cá Rồng Thép Gia Viên
+28240501 : Cá Bướm Vân Đất Gia Viên
+28240502 : Cá Bướm Vân Tím Gia Viên
+28240503 : Cá Bướm Vân Trà Gia Viên
+28240504 : Trường Sinh Tiên Gia Viên
+28240505 : Lôi Minh Tiên Gia Viên
+28240506 : Cá Ánh Trăng Gia Viên
+28240601 : Cá Pháo Gia Viên
+28240602 : Cá Pháo Cay Đắng Gia Viên
+28240701 : null
+28240702 : null
+28250101 : 
+28250102 : 
+28250103 : 
+28250104 : 
+28250105 : null
+28250301 : null
+29010101 : Phong Ma Long Dvalin
+29010102 : Phong Ma Long Dvalin
+29010103 : Phong Ma Long
+29010104 : Phong Ma Long Dvalin
+29020101 : Vua Sói Bắc Phong, Boreas
+29020102 : Andrius, Vua Sói
+29030101 : Đứng Cuối Trong 11 Quan Chấp Hành Fatui - Childe
+29030102 : Giải phóng Delusion - Childe
+29030103 : Childe
+29030104 : Đứng Cuối Trong 11 Quan Chấp Hành Fatui - Childe
+29030105 : Giải phóng Delusion - Childe
+29030106 : Childe
+29040101 : Azhdaha
+29040102 : Azhdaha
+29040103 : Azhdaha
+29040104 : Azhdaha
+29040111 : Azhdaha
+29050101 : Signora
+29050102 : Hỏa Ngục Ma Nữ
+29050103 : Signora
+29050104 : Hỏa Ngục Ma Nữ
+29060101 : Raiden Shogun
+29060102 : Raiden Ei
+29060201 : null
+29060202 : null
+29060203 : null
