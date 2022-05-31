@@ -1,4 +1,4 @@
-// Monsters
+// Monsters 2.7
 20010101 : Dendro Slime
 20010201 : Large Dendro Slime
 20010202 : 
